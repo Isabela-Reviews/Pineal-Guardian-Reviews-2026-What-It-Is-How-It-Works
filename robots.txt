@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isabela-reviews.github.io/Pineal-Guardian-Reviews-2026-What-It-Is-How-It-Works/sitemap.xml
